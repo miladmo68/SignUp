@@ -14,7 +14,6 @@ function App() {
       element: <Login />,
     },
   ]);
-
   return (
     <div>
       <RouterProvider router={route}></RouterProvider>

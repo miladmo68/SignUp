@@ -27,7 +27,7 @@ function Login() {
           </button>
           <div className="login">
             <p>Dont have adn account?</p>
-            <Link to="/" type="submit" class="btn btn-success">
+            <Link to="/SignUp" type="submit" class="btn btn-success">
               Sign Up
             </Link>
           </div>
